@@ -1,5 +1,7 @@
 # Collections-7
 
+## Iterating Map:
+
 In Java, the `java.util` package provides several implementations of the `Map` interface. Here are the main types of map collections, along with examples of how to insert elements and iterate over them:
 
 1. **HashMap**

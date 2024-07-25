@@ -8,3 +8,4 @@
 * [Collections-5](collections-5.md)
 * [Collections-6](collections-6.md)
 * [Collections-7](collections-7.md)
+* [Collections-8](collections-8.md)

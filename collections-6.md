@@ -1,4 +1,6 @@
-# collections-6
+# Collections-6
+
+## Sub Types:
 
 In Java, the Collections Framework provides a set of classes and interfaces for managing groups of objects. The main interfaces in the Collections Framework are `Collection`, `Set`, `List`, `Queue`, and `Map`. Here’s a breakdown of these groups and examples of classes that implement these interfaces:
 

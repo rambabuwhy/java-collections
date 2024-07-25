@@ -1,6 +1,6 @@
 # Collections-5
 
-#### ArrayList
+## ArrayList
 
 An `ArrayList` is a resizable array implementation of the `List` interface. It is part of the Java Collections Framework and provides a way to store elements in a dynamically resizable array. `ArrayList` allows duplicate elements and maintains the order of insertion.
 
