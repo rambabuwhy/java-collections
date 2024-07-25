@@ -1,5 +1,7 @@
 # Advanced-3
 
+## hashset vs treeset
+
 `HashSet` and `TreeSet` are two different implementations of the `Set` interface in Java, each with its own characteristics and use cases. Here's a detailed comparison:
 
 #### `HashSet`
