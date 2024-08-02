@@ -14,3 +14,4 @@
 * [Advanced-3](advanced-3.md)
 * [Advanced-4](advanced-4.md)
 * [Advanced-5](advanced-5.md)
+* [Advanced-6](advanced-6.md)
