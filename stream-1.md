@@ -1,5 +1,7 @@
 # stream-1
 
+## Optional:
+
 In Java, the `Optional` class is a container object which may or may not contain a non-null value. It is used to represent the presence or absence of a value, thus helping to avoid `NullPointerException`. Here’s an overview of how you can use `Optional` in Java:
 
 #### Creating an Optional
